@@ -1,192 +1,149 @@
-# Dark War Survival Bot - Dark War Game Automation Tool
+# Dark War Survival Bot for Windows Emulator Automation
 
-[![Website](https://img.shields.io/badge/Website-GodLikeBots-blue)](https://godlikebots.com/dark-war-survival-bot/)
-[![Download](https://img.shields.io/badge/Download-Membership%20Required-green)](https://godlikebots.com/download-dark-war-survival-bot/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%2B%20Emulator-lightgrey)](https://godlikebots.com/dark-war-survival-bot/)
-[![Support](https://img.shields.io/badge/Support-Discord-5865F2)](https://discord.gg/zfNJsbP2tF)
+Dark War Survival Bot by GodLikeBots is a Windows-based automation tool for players who want to reduce repetitive daily tasks in Dark War Survival. It is designed to run through an Android emulator such as LDPlayer, Nox, or BlueStacks.
 
-> Dark War Survival bot for 24/7 resource farming, troop training, building upgrades, zombie hunting, daily rewards, alliance helps, and alliance gifts. Built for Windows PC with LDPlayer, Nox, or BlueStacks.
+The bot focuses on routine account maintenance tasks such as resource gathering, troop training, building queue management, zombie hunting, daily rewards, mail rewards, alliance helps, and alliance gifts.
 
-Download here: https://godlikebots.com/dark-war-survival-bot/
+Official page: https://godlikebots.com/dark-war-survival-bot/
+Download page: https://godlikebots.com/download-dark-war-survival-bot/
+Support: https://discord.gg/zfNJsbP2tF
 
-> [!NOTE]
-> The current listed setup is **PC first**: Windows, 8GB RAM minimum, and an Android emulator. Mobile access is handled by connecting to a VPS or remote PC running the emulator, not by running the bot natively on your phone.
+## Important setup note
 
----
+The current recommended setup is:
 
-## Table of Contents
+* Windows PC
+* Android emulator
+* Stable internet connection
+* Active GodLikeBots membership
+* Dark War Survival installed inside the emulator
 
-- [Why Dark War Survival Automation?](#why-dark-war-survival-automation)
-- [Key Features](#key-features)
-- [Full Feature List](#full-feature-list)
-- [System Requirements](#system-requirements)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-- [Pricing Plans](#pricing-plans)
-- [Security & Safety](#security--safety)
-- [FAQ](#faq)
-- [Support](#support)
-- [Roadmap](#roadmap)
-- [Keywords](#keywords)
-- [Disclaimer](#disclaimer)
-- [License](#license)
+The bot does not run natively on Android or iOS. Mobile access is possible only by connecting to a remote Windows PC or VPS that is running the emulator.
 
----
+## What the bot is built for
 
-## Why Dark War Survival Automation?
+Dark War Survival has many repeatable actions that can slow account growth when they are missed: gathering resources, collecting rewards, training troops, sending help to alliance members, and keeping upgrade queues active.
 
-Dark War Survival asks for a lot of tiny, repeatable actions: send gatherers, collect mail, train units, tap alliance helps, pick up VIP rewards, run zombie hunts, and keep buildings moving. Miss a few cycles and your base does not explode, sure. It just falls behind in the quiet, annoying way survival games do.
+This tool is built to help with those repetitive tasks. It does not replace account planning, event decisions, troop strategy, upgrade priorities, or player judgement. You still decide what matters for your account; the bot handles selected routine actions after setup.
 
-This bot is built for that grind.
+## Main features
 
-Instead of babysitting an emulator all day, you configure the jobs that matter and let the automation handle the routine. You still make the real calls: what to upgrade, when to spend resources, which account needs attention, and when to back off after a game patch.
+### Resource gathering
 
-### Dark War Automation vs Generic Macros
+The bot can automate gathering for the main Dark War Survival resources, including:
 
-| Feature | GodLikeBots Dark War Automation | Basic Clicker or Macro |
-|---|---|---|
-| Game Fit | Built around Dark War tasks like troops, resources, buildings, zombies, and alliance rewards | Records taps without knowing what the screen means |
-| Setup | Windows PC with LDPlayer, Nox, or BlueStacks | Any setup that can replay clicks, if it does not break |
-| Long Sessions | Designed for 24/7 farming sessions | Usually fragile after popups, lag, or screen drift |
-| Multi-Account Use | Membership page lists multi-instancing and unlimited accounts | Limited by emulator profiles and manual switching |
-| Support | Discord support and update notes | Usually you fix it yourself |
-| Best Use Case | Farming, account growth, daily upkeep, alliance chores | One repeated tap path that rarely changes |
+* Coin
+* Power
+* Wood
+* Iron
 
-> [!TIP]
-> If your daily bottleneck is resources, queue downtime, or missed rewards, automate those first. If you are losing fights because of bad troop mix or rushed upgrades, fix the account plan before you throw more hours at farming.
+This is useful for players who want to keep resource income moving during longer sessions without manually checking the emulator throughout the day.
 
----
+### Troop training
 
-## Key Features
+The bot can help keep troop production active for supported troop types, including:
 
-### 24/7 Resource Farming
+* Infantry
+* Snipers
+* Heavy artillery
 
-Set the bot to gather the core Dark War Survival resources: **coin, power, wood, and iron**. That matters because growth usually stalls at the boring point, not the dramatic one. You log in ready to upgrade, then realize one resource is short and your builders sit there doing nothing.
+This can reduce downtime in training queues, especially for players managing multiple accounts or long farming sessions.
 
-A farming bot helps smooth that out. It keeps the account moving while you are away from the keyboard, asleep, or handling another account.
+### Building upgrades
 
-### Troop Training That Keeps Your Army Warm
+The bot can assist with building upgrade routines when the required resources and queue conditions are available. It is intended to reduce idle time between completed upgrades and the next selected action.
 
-The bot can train troops across the main combat types listed on the product page: **infantry, snipers, and heavy artillery**. Constant training is not flashy. It just adds up.
+Players should still choose upgrade priorities manually based on account goals, event timing, and available resources.
 
-The smart play is to match training with your current goal. Pushing zombies? Keep enough damage online. Preparing for a server fight? Do not let barracks sit idle for half the day.
+### Zombie hunting
 
-### Building Upgrades Without the Dead Time
+The bot can run repeat zombie-hunting actions for rewards, experience, and steady account progression. This is best used for routine PvE farming rather than event-specific decision-making.
 
-Base growth in Dark War Survival turns into a queue management problem pretty fast. Headquarters, barracks, research buildings, and other facilities all compete for time and resources.
+After major game updates, zombie-hunting tasks should be tested under supervision before running long sessions.
 
-Automation helps by keeping upgrades moving when the path is clear. You still choose priorities, but the bot cuts down the dead zones between "upgrade finished" and "someone finally noticed."
+### Daily rewards and account maintenance
 
-### Zombie Hunting for Rewards and Account XP
+The bot can help collect routine rewards such as:
 
-Zombie hunting is one of those tasks that feels fine for five minutes and miserable after the fiftieth repeat. The bot can run hunts for rewards, experience, and steady account progress.
+* Daily task rewards
+* Daily VIP rewards
+* Mail rewards
+* Alliance gifts
+* Alliance help requests
 
-Use it when your account needs repeatable player-versus-environment gains. Do not use it as a blind replacement for event decisions, because event timing still needs your brain.
+These small actions can add up over time, especially for accounts that are not checked manually throughout the day.
 
-### Daily, VIP, Mail, and Alliance Rewards
+## Requirements
 
-The small rewards are easy to dismiss until you miss them for a week. The bot can collect:
+Minimum recommended setup:
 
-- Daily task rewards
-- Daily VIP rewards
-- Mail rewards
-- Alliance gifts
-- Alliance help taps
+* Operating system: Windows
+* RAM: 8 GB minimum
+* Emulator: LDPlayer, Nox, or BlueStacks
+* Internet: Stable connection
+* Game: Dark War Survival installed and working inside the emulator
+* Account: Active GodLikeBots membership
 
-That is not glamorous work. Good. The best automation handles the stuff you should not have to think about.
+Recommended for multi-account use:
 
-### Discord Support and Patch Notes
+* 16 GB RAM or more
+* SSD storage
+* Modern quad-core CPU or better
+* GPU support for smoother emulator performance
+* Separate emulator profiles for each account
 
-GodLikeBots uses Discord for support, setup help, update notes, patch discussion, and guides. That is the right place to check before changing emulator settings or assuming a game update broke something on your end.
-
-> [!IMPORTANT]
-> After a game update, run the bot under watch for the first cycle. UI changes, popups, and event screens can throw off any emulator-based tool.
-
----
-
-## Full Feature List
-
-### Resources & Farming
-
-- Auto Gather Coin - Keep coin income moving during long sessions
-- Auto Gather Power - Farm power when growth or training starts draining it
-- Auto Gather Wood - Feed building upgrades without extra manual loops
-- Auto Gather Iron - Keep iron coming in for mid-game and late-game pressure
-- 24/7 Farming Sessions - Keep the grind active while your PC or VPS runs
-
-### Training & Base Growth
-
-- Auto Train Troops - Train infantry, snipers, and heavy artillery
-- Building Upgrade Automation - Keep major base facilities progressing
-- Queue Awareness - Reduce idle windows after a task finishes
-- Account Growth Support - Pair farming, training, and upgrades into a daily routine
-
-### Zombies & Combat Prep
-
-- Hunt Zombies - Farm zombie rewards and experience
-- Repeat PvE Runs - Use long sessions for steady progress
-- Army Readiness - Keep troop production active so zombie hunts do not drain momentum
-
-### Quests & Rewards
-
-- Claim Daily Tasks - Pick up routine daily task rewards
-- Collect Daily VIP Rewards - Grab VIP value without needing a manual reminder
-- Claim Mail - Collect mail rewards before they pile up
-- Time-Based Rewards - Keep an eye on recurring freebies when available
-
-### Alliance Features
-
-- Alliance Helps - Press help requests for members as they appear
-- Collect Alliance Gifts - Pick up gifts from alliance activity
-- Alliance Routine Support - Cover the small taps that make a good alliance account less needy
-
-### Platform & Account Handling
-
-- Windows PC Support - Current requirements list Windows only
-- Emulator Support - Works through LDPlayer, Nox, or BlueStacks
-- Multi-Instancing - Membership page lists multi-instancing for many accounts
-- Mobile Access by VPS - Android or iOS control is handled through a remote emulator setup
-- Discord Guides - Setup notes and help are shared through the GodLikeBots Discord
-
----
-
-## System Requirements
-
-### Minimum Requirements
-
-- **OS:** Windows PC
-- **RAM:** 8GB minimum
-- **Emulator:** LDPlayer, Nox, or BlueStacks
-- **Internet:** Stable connection
-- **Account:** Active GodLikeBots membership
-- **Setup:** Emulator configured for Dark War Survival
-
-### Recommended
-
-- **RAM:** 16GB+ if you plan to run multiple emulator instances
-- **Storage:** SSD with space for emulator profiles
-- **CPU:** Modern quad-core processor or better for multi-account setups
-- **GPU:** Useful for emulator stability, especially on a VPS
-- **Discord Access:** Strongly recommended for setup guides and patch notes
-
-> [!WARNING]
-> The product page says "Android / iOS / MAC / PC" in its feature table, but the listed requirements say **Windows only** and **must install an emulator**. Treat Windows PC plus emulator as the safe setup unless the Discord guide says otherwise.
-
----
-
-## Installation
-
-### Quick Install
+## Installation overview
 
 1. Create or log in to your GodLikeBots account.
-2. Pick an active membership plan.
-3. Download the bot from the member download page.
-4. Install one supported emulator: `LDPlayer`, `Nox`, or `BlueStacks`.
-5. Install and log in to Dark War Survival inside the emulator.
-6. Follow the Discord setup guide for emulator settings.
-7. Launch the bot, select your tasks, and start with a short watched run.
+2. Choose an active membership plan.
+3. Download the Dark War Survival Bot from the member download page.
+4. Install LDPlayer, Nox, or BlueStacks on a Windows PC.
+5. Install Dark War Survival inside the emulator.
+6. Open the game once and make sure it reaches the normal in-game screen.
+7. Follow the setup guide in the GodLikeBots Discord.
+8. Start with a short watched test run before using longer automation sessions.
 
-### Direct Download
+## Recommended first-run checklist
 
-```text
-https://godlikebots.com/download-dark-war-survival-bot/
+Before running the bot for a long session:
+
+* Confirm the emulator resolution and scaling match the setup guide.
+* Disable unexpected popups where possible.
+* Make sure the game is fully loaded before starting automation.
+* Test one feature at a time.
+* Watch the first cycle after every game update.
+* Stop and re-check settings if the game UI changes.
+
+## Dark War Survival Bot vs a basic macro
+
+| Area        | GodLikeBots Dark War Survival Bot                     | Basic click macro                          |
+| ----------- | ----------------------------------------------------- | ------------------------------------------ |
+| Purpose     | Built around Dark War Survival daily tasks            | Replays fixed clicks                       |
+| Setup       | Windows PC with emulator                              | Any click-recording setup                  |
+| Reliability | Designed for repeat farming sessions                  | Can break after lag, popups, or UI changes |
+| Tasks       | Gathering, troops, rewards, zombies, alliance actions | Usually one repeated path                  |
+| Support     | Discord setup help and update notes                   | Usually self-managed                       |
+| Best use    | Routine account maintenance                           | Simple repeated tapping                    |
+
+## Safety and usage notes
+
+Any emulator-based automation can be affected by game updates, layout changes, connection issues, or unexpected popups. For that reason, long unattended sessions should only be started after a watched test run.
+
+The tool is designed for repetitive task automation, not for modifying game files, exploiting the game, or bypassing payment systems. Players are responsible for how they use automation tools and should review the game’s rules and terms before use.
+
+## Support
+
+Setup help, update notes, troubleshooting, and community discussion are handled through the GodLikeBots Discord.
+
+Support Discord: https://discord.gg/zfNJsbP2tF
+
+## Official links
+
+* Product page: https://godlikebots.com/dark-war-survival-bot/
+* Download page: https://godlikebots.com/download-dark-war-survival-bot/
+* GodLikeBots website: https://godlikebots.com/
+* Support Discord: https://discord.gg/zfNJsbP2tF
+
+## Disclaimer
+
+GodLikeBots is not affiliated with the publisher or developer of Dark War Survival. Dark War Survival names, images, and trademarks belong to their respective owners. This project is provided as a third-party automation tool for routine emulator-based actions. Use it responsibly and at your own discretion.
