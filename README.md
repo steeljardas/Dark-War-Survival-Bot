@@ -4,9 +4,9 @@ Dark War Survival Bot by GodLikeBots is a Windows-based automation tool for play
 
 The bot focuses on routine account maintenance tasks such as resource gathering, troop training, building queue management, zombie hunting, daily rewards, mail rewards, alliance helps, and alliance gifts.
 
-Official page: https://godlikebots.com/dark-war-survival-bot/
-Download page: https://godlikebots.com/download-dark-war-survival-bot/
-Support: https://discord.gg/zfNJsbP2tF
+[![Website](https://img.shields.io/badge/Website-GodLikeBots-blue)](https://godlikebots.com/dark-war-survival-bot/)
+[![Download](https://img.shields.io/badge/Download-Members_Area-green)](https://godlikebots.com/download-dark-war-survival-bot/)
+[![Discord](https://img.shields.io/badge/Support-Discord-5865F2)](https://discord.gg/zfNJsbP2tF)
 
 ## Important setup note
 
