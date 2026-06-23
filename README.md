@@ -1,12 +1,15 @@
 # Dark War Survival Bot for Windows Emulator Automation
 
+[![Website](https://img.shields.io/badge/Website-GodLikeBots-blue)](https://godlikebots.com/dark-war-survival-bot/)
+[![Download](https://img.shields.io/badge/Download-Members_Area-green)](https://godlikebots.com/download-dark-war-survival-bot/)
+[![Discord](https://img.shields.io/badge/Support-Discord-5865F2)](https://discord.gg/zfNJsbP2tF)
+
 Dark War Survival Bot by GodLikeBots is a Windows-based automation tool for players who want to reduce repetitive daily tasks in Dark War Survival. It is designed to run through an Android emulator such as LDPlayer, Nox, or BlueStacks.
 
 The bot focuses on routine account maintenance tasks such as resource gathering, troop training, building queue management, zombie hunting, daily rewards, mail rewards, alliance helps, and alliance gifts.
 
-[![Website](https://img.shields.io/badge/Website-GodLikeBots-blue)](https://godlikebots.com/dark-war-survival-bot/)
-[![Download](https://img.shields.io/badge/Download-Members_Area-green)](https://godlikebots.com/download-dark-war-survival-bot/)
-[![Discord](https://img.shields.io/badge/Support-Discord-5865F2)](https://discord.gg/zfNJsbP2tF)
+Download: https://godlikebots.com/dark-war-survival-bot/
+
 
 ## Important setup note
 
